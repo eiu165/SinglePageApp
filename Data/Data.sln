@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{F7A91EC7-11B9-40B4-BC67-201328CEA671}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{F771FD21-ABF9-4CC6-AFBC-BEB7FDB1D579}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data.csproj", "{F771FD21-ABF9-4CC6-AFBC-BEB7FDB1D579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7A91EC7-11B9-40B4-BC67-201328CEA671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7A91EC7-11B9-40B4-BC67-201328CEA671}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7A91EC7-11B9-40B4-BC67-201328CEA671}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7A91EC7-11B9-40B4-BC67-201328CEA671}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F771FD21-ABF9-4CC6-AFBC-BEB7FDB1D579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F771FD21-ABF9-4CC6-AFBC-BEB7FDB1D579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F771FD21-ABF9-4CC6-AFBC-BEB7FDB1D579}.Release|Any CPU.ActiveCfg = Release|Any CPU
